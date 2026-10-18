@@ -55,13 +55,13 @@ Research prototype of an autonomous SRE agent with policy-as-code governance and
 
 <table>
 <tr>
-<td align="center" width="200">
-<a href="https://github.com/S2800-0"><img src="https://github.com/S2800-0.png?size=120" width="80" alt=""><br><b>Shahesta Salama</b></a><br>
-<sub>Co-founder · Systems & benchmarking</sub>
+<td align="center" valign="top" width="220">
+<a href="https://github.com/nourseen6"><img src="https://github.com/nourseen6.png?size=160" width="80" height="80" alt=""><br><b>Nourseen Tarek</b></a><br>
+<sub>Co-founder · Researcher</sub>
 </td>
-<td align="center" width="200">
-<a href="https://github.com/nourseen6"><img src="https://github.com/nourseen6.png?size=120" width="80" alt=""><br><b>Nourseen Tarek</b></a><br>
-<sub>Co-founder · Evaluation & reliability</sub>
+<td align="center" valign="top" width="220">
+<a href="https://github.com/S2800-0"><img src="https://github.com/S2800-0.png?size=160" width="80" height="80" alt=""><br><b>Shahesta Salama</b></a><br>
+<sub>Co-founder · Researcher</sub>
 </td>
 </tr>
 </table>
